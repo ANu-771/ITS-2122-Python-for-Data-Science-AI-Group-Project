@@ -88,5 +88,16 @@ Implemented an algorithm adapted from the validated clinical **LACE index** ($L 
 
 ---
 
-## 👥 Authors
-*GDSE / ITS 2122 - Semester 3 Group Project*
+## 👥 Contributors (Group 3)
+
+This project was developed with dedication and teamwork for the **ITS-2122: Python for Data Science & AI** course:
+
+| # | Contributor | GitHub | Profile Link |
+| :---: | :--- | :---: | :--- |
+| 1 | **Shaluka Ranhinda** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/ShalukaRanhinda) | [@ShalukaRanhinda](https://github.com/ShalukaRanhinda) |
+| 2 | **Induni Palliyaguru** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/InduniPalliyaguru) | [@InduniPalliyaguru](https://github.com/InduniPalliyaguru) |
+| 3 | **Hashini Emalsha** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/hashii2002) | [@hashii2002](https://github.com/hashii2002) |
+| 4 | **Chathunga Bimsara** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/chathunga2007) | [@chathunga2007](https://github.com/chathunga2007) |
+| 5 | **Pabodya Nethmi** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/pabodyanethmi) | [@pabodyanethmi](https://github.com/pabodyanethmi) |
+| 6 | **Isuru Anupama** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/ANu-771) | [@ANu-771](https://github.com/ANu-771) |
+
